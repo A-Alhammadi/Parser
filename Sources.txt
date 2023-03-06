@@ -1,0 +1,5 @@
+some string handling functions are modified from:
+https://srfi.schemers.org/srfi-1/srfi-1-reference.scm
+https://srfi.schemers.org/srfi-13/srfi-13.scm
+
+https://docs.racket-lang.org/
